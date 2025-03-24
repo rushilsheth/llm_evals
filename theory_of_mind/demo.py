@@ -1,6 +1,6 @@
 # demo.py
 import sys
-from apollo_email_assistant.agent import run_assistant_with_message, state
+from theory_of_mind.agent import run_assistant_with_message, state
 
 def main():
     print("Project Aurora Email Assistant Demo")

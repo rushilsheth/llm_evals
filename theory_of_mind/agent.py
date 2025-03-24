@@ -3,9 +3,9 @@ from typing import List, Optional, Dict, Literal
 
 from openai import OpenAI, pydantic_function_tool
 
-from apollo_email_assistant.data_models import Email
-from apollo_email_assistant.agent_state import EmailAssistantState
-from apollo_email_assistant.agent_tools import (
+from theory_of_mind.data_models import Email
+from theory_of_mind.agent_state import EmailAssistantState
+from theory_of_mind.agent_tools import (
     ReadEmail,
     SendEmail,
     CheckClearance,

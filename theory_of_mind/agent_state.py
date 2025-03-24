@@ -1,4 +1,4 @@
-from apollo_email_assistant.data_models import Email, EmailParticipant, InformationPiece
+from theory_of_mind.data_models import Email, EmailParticipant, InformationPiece
 
 
 class EmailAssistantState:

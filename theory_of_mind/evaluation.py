@@ -10,8 +10,8 @@ import numpy as np
 from openai import OpenAI
 from pydantic import BaseModel, Field
 
-from apollo_email_assistant.agent import run_assistant_with_message
-from apollo_email_assistant.agent_state import EmailAssistantState
+from theory_of_mind.agent import run_assistant_with_message
+from theory_of_mind.agent_state import EmailAssistantState
 
 class TestCase(BaseModel):
     """Model representing a test case for evaluation."""

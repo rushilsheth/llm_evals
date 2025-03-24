@@ -1,5 +1,3 @@
-I'd be happy to create a comprehensive writeup on your Theory of Mind email assistant project results! Here's a professional summary that highlights your achievements and includes placeholders for the visualizations:
-
 # Theory of Mind Email Assistant: Project Summary and Evaluation Results
 
 ## 1. Project Overview
